@@ -38,6 +38,7 @@ Furthermore, you will need to install [ChromeDriver](https://chromedriver.chromi
 In order to run script (once all requirements have been installed on machine), execute it by running the python script below:
 ```
 python3 goodrx.py
+python3 singlecare.py
 ```
 
 
